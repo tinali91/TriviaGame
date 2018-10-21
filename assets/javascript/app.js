@@ -74,7 +74,7 @@ function displayQuestions() {
 
 //timer
 var timer = {
-    time: 10,
+    time: 60,
 
     run: function () {
         if(!clockRunning) {
